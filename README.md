@@ -1,0 +1,2 @@
+# Enter-AveragespeedofBothCars-and-Elapsedtime-and-output-Shortestdistance-bw-cars.
+Two cars A and B leave an intersection at the same time. Car A travels west at an average speed  of x miles per hour and car B travels south at an average speed of y miles per hour. Write a  program that prompts the user to enter the average speed of both the cars and the elapsed time  (in hours and minutes) and outputs the (shortest) distance between the cars.
